@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on BlackCat&#39;s Blog</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on BlackCat&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>BlackCat</copyright>
+        <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;p&gt;Hello!
+In this blog, we delve into security and technology from the deepest layers of the system. We focus on low-level security and system architecture, covering topics such as boot loaders(UEFI), Malware, Browser, kernel &amp;amp; hardware vulnerability.&lt;/p&gt;
+&lt;p&gt;I explore a variety of operating systems, including MacOS, Android, Windows, and Linux. On each platform, I analyze vulnerabilities, boot loaders (UEFI), kernels, hardware and other security-related aspects in depth.&lt;/p&gt;
+&lt;p&gt;This blog also serves as a space to document and share my research and learning. I hope it provides valuable insights for those interested in low-level security and becomes a place where we can exchange knowledge and collaborate.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://example.com/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
